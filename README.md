@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/fenbrowser-logo.png" alt="FenBrowser logo" width="720" />
+  <img src="fenbrowser-logo.png" alt="FenBrowser logo" width="720" />
 </p>
 
 <p align="center">
